@@ -15,8 +15,8 @@ body {
   font-weight: 300;
   font-size: 14px;
   line-height: 1.7;
-  color: gray;
-  background: #e8e8e8;
+  color: red;
+  background: #f2bba6;
 }
 
 .subtitle{
@@ -24,7 +24,7 @@ body {
   font-weight: 300;
   font-size: 20px;
   line-height: 1.7;
-  color: gray;
+  color: red;
 }
 
 .info{
@@ -32,7 +32,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
-  color: gray;
+  color: red;
  }
  
  
@@ -41,7 +41,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1;
-  color: gray;
+  color: red;
   text-align:center;
 
 }
@@ -679,7 +679,7 @@ h1, h2, h3, h4, h5, h6, figure {
   letter-spacing: 1px;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
-  color: gray;
+  color: red;
 }
 
 .fh5co-blog {
@@ -1407,7 +1407,7 @@ input[type="text"] {
 
 .btn-outline {
   background: none;
-  border: 2px solid gray;
+  border: 2px solid red;
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
