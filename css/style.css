@@ -1039,7 +1039,7 @@ input[type="text"] {
   display: block;
 }
 #fh5co-footer .fh5co-footer-links li a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 #fh5co-footer .fh5co-footer-links li a:hover {
